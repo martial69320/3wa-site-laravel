@@ -1,0 +1,23 @@
+body{
+    background-color:#FA5858 ;
+}
+
+
+button >input{
+
+    border:none;
+    background:transparent;
+}
+input{
+    border-radius: 5px;
+}
+
+img {
+    margin-top:5px;
+    margin-bottom:5px;
+
+}
+
+ul.pagination {
+    clear:both;
+}
